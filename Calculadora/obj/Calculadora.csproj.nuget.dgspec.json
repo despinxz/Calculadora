@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora-1\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora-1\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora-1\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora-1\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\despinxz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora-1\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\despinxz\\AppData\\Roaming\\NuGet\\NuGet.Config"

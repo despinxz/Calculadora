@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Up1Nugcoodc=",
+  "dgSpecHash": "eb0r3EjSU7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\despinxz\\.vscode\\projetos\\Calculadora\\Calculadora-1\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\despinxz\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\despinxz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",

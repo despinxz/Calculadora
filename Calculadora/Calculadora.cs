@@ -34,6 +34,7 @@ namespace Calculadora
         // Implementação da operação de divisão
         public decimal divisao(Operacoes operacao)
         {
+            if (operacao.valorB == 0) throw new DivideByZeroException("Não é possível realizar divisões por 0.");
             return (decimal) operacao.valorA / operacao.valorB;
         }
     }
