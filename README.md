@@ -1,7 +1,7 @@
 # Calculadora
 ## Case para Engenharia de Software JR (Solução - Eloisa Antero Guisse)
 
-##Problemas corrigidos e funcionalidades adicionadas no código:
+## Problemas corrigidos e funcionalidades adicionadas no código:
 - **1. Aplicação só está processando o primeiro item da fila infinitamente.**
 
   O problema se dava pois o método utilizado era o Peek(), que apenas captura o primeiro elemento da fila. Este foi substituido pelo método Dequeue(), que captura o primeiro elemento e imediatamente o remove da fila, permitindo que o loop não fique preso no mesmo elemento.
