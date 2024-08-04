@@ -3,9 +3,9 @@ namespace Calculadora
 {
     public class Operacoes
     {
-        public int valorA {get;set;}
+        public long valorA {get;set;}    // Troca do int por long para o cálculo ser realizado corretamente para números grandes
         public char operador { get; set; }
-        public int valorB { get; set; }
+        public long valorB { get; set; }
         public decimal resultado { get; set; }
 
     }
